@@ -1,7 +1,7 @@
 {
   "name": "react-redux-starter",
   "version": "1.0.0",
-  "description": "Learn react redux on create a project",
+  "description": "Learn react redux on create a project Experimental",
   "scripts": {
     "prestart": "babel-node tools/startMessage.js",
     "start": "npm-run-all --parallel test:watch open:src lint:watch",
